@@ -60,6 +60,7 @@ target/
 .env
 data/
 .venv
+datasource/
 
 
 

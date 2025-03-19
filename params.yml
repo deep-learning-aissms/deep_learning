@@ -7,7 +7,7 @@ raw_data:
 load_data:
   num_classes: 4
   raw_data: data_source
-  preprocessed_data: data/preprocessed
+  preprocessed_data: data/processed
   full_path: deep__learing/data_source
 
 train:
@@ -43,4 +43,3 @@ mlflow_congig:
   run_name: mlops
   registered_model_name: Dee_Learning_model
   remote_server_url: https://127.0.0.1:5000
-  
